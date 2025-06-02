@@ -1,0 +1,9 @@
+flask
+werkzeug
+pypdf
+langchain
+sentence_transformers
+transformers 
+huggingface_hub
+faiss-cpu
+aiofiles
