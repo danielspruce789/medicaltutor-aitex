@@ -45,7 +45,11 @@ To run MedStudy Assistant locally:
    ```
 ## Demo
 Check out our application demo:
-- [Demo.mp4](medicaltutor_Demo.mp4)
+
+
+https://github.com/user-attachments/assets/4cdd289a-e8da-427c-a763-9b4828e4f7ca
+
+
 ## Usage
 1. Upload your medical PDF document using the sidebar
 2. Click "Process" to analyze the document
