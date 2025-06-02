@@ -27,13 +27,11 @@ Planned features:
    - Multi-course support for comprehensive exam preparation
 
 ## Architecture
+![Architecture Diagram](architecture.png)
+
 The application follows a client-server architecture:
 1. **Frontend**: HTML, CSS, and JavaScript for the user interface
 2. **Backend**: Flask web server
-3. **PDF Processing**: Extract text from uploaded PDF documents
-4. **Text Processing**: Split text into manageable chunks
-5. **Embedding Generation**: Generate embeddings using medical-specific model
-6. **Vector Database**: Store and query text embeddings using FAISS
 7. **LLM Integration**: Generate responses using Mixtral 8x7B
 ## Installation and Setup
 To run MedStudy Assistant locally:
@@ -47,7 +45,7 @@ To run MedStudy Assistant locally:
    ```
 ## Demo
 Check out our application demo:
-- [MedStudy_Demo.mp4](medicaltutor_Demo.mp4)
+- [Demo.mp4](medicaltutor_Demo.mp4)
 ## Usage
 1. Upload your medical PDF document using the sidebar
 2. Click "Process" to analyze the document
